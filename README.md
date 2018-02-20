@@ -3,7 +3,7 @@
 **Author**:		   Danielle Novick  
 **Course**:		   CISC889 - Modeling and Simulation in Bioinformatics  
 **Objective**:  Reconstruct a gene regulatory network from binary gene expression data (extremely small mock data) by implementing Bayesian networks and make inferences about gene expression  
-**Location**:		https://github.com/juniper-lake/Bayesian\_Gene\_Regulatory\_Network.git
+**Location**:		https://github.com/juniper-lake/Bayesian_Gene_Regulatory_Network.git
             
          
 ### Running Program
